@@ -3,6 +3,6 @@ id: narfbloq
 name: NARFBLOQ
 type: shield
 url: https://github.com/sebastian-stumpf/narfbloq
-requires: [seeeduino_xiao_ble]
+requires: [seeed_xiao]
 features:
   - keys

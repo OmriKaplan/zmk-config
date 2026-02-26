@@ -19,5 +19,6 @@
 #
 ---
 include:
-  - board: seeeduino_xiao_ble
+  - board: xiao_ble
     shield: narfbloq
+    artifact-name: narfbloq_with_xiao
