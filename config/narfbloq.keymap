@@ -12,9 +12,9 @@
         default_layer {
             label= "DEFAULT";
             bindings = <
-                          &kp C_PREV       &kp C_PP         &kp C_NEXT
-                          &kp LC(LEFT)     &kp C_AL_CALC    &kp LC(RIGHT)
-            &kp C_MUTE    &kp LS(LEFT)     &lt LOWER SPACE  &kp LS(RIGHT)
+                          &kp P       &kp I         &kp S
+                          &kp T     &kp U    &kp K
+            &kp C_MUTE    &kp I     &lt LOWER M  &kp EXCL
             >;
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
