@@ -18,3 +18,7 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+include:
+  - board: xiao_ble
+    shield: narfbloq
+    artifact-name: narfbloq_with_xiao

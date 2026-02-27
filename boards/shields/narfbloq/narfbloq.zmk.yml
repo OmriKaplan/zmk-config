@@ -1,0 +1,8 @@
+file_format: "1"
+id: narfbloq
+name: NARFBLOQ
+type: shield
+url: https://github.com/sebastian-stumpf/narfbloq
+requires: [seeed_xiao]
+features:
+  - keys
